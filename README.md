@@ -32,8 +32,7 @@ amazon-clone/
 ├── index.html
 ├── style.css
 ├── images/
-├── assets/
-│   └── homepage.png
+├─ homepage.png
 └── README.md
 
 ## Learning Objectives
