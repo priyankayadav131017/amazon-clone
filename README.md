@@ -35,16 +35,6 @@ amazon-clone/
 ├─ homepage.png
 └── README.md
 
-## Learning Objectives
-
-This project was developed to strengthen practical skills in:
-
-* Semantic HTML
-* CSS Flexbox
-* Responsive Web Design
-* UI Replication
-* Git & GitHub Workflow
-
 ## Getting Started
 
 To run this project locally:
