@@ -4,7 +4,7 @@ A responsive frontend clone of the Amazon homepage built using HTML5 and CSS3. T
 
 ## Preview
 
-![Amazon Clone](assets/homepage.png)
+![Amazon Clone](homepage.png)
 
 ## Key Features
 
