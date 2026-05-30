@@ -23,17 +23,19 @@ A responsive frontend clone of the Amazon homepage built using HTML5 and CSS3. T
 | HTML5      | Structure and content             |
 | CSS3       | Styling and layout                |
 | Git        | Version control                   |
-| GitHub     | Project hosting and collaboration |
+| GitHub     | Source code management            |
 
 ## Project Structure
 
+```text
 amazon-clone/
 │
 ├── index.html
 ├── style.css
 ├── images/
-├─ homepage.png
+├── homepage.png
 └── README.md
+```
 
 ## Getting Started
 
@@ -41,19 +43,24 @@ To run this project locally:
 
 1. Clone the repository
 
+```bash
 git clone https://github.com/PriyankaYadav131017/amazon-clone.git
+```
 
 2. Navigate to the project directory
 
+```bash
 cd amazon-clone
+```
 
 3. Open `index.html` in your preferred web browser.
 
 ## Author
 
 **Priyanka Yadav**
-B.Tech Student
+
+B.Tech Student  
 NIT Manipur
 
-GitHub: https://github.com/PriyankaYadav131017
+
 
